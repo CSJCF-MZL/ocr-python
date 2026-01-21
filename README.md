@@ -4,10 +4,10 @@ Información General
 Herramienta de organización de expedientes judiciales desarrollada para la Rama Judicial - Dirección Seccional de Caldas. Creada por la Oficina de Ejecución y el Centro de Servicios Judiciales de Manizales.
 
 # Equipo Responsable
-Ing. Andrea Arbelaez Mendoza
-Dra. Natalia Quintero Hoyos
-Ing. Johanny Vargas Gonzale
-Ing. Sebastián Martínez Valencia
+* Ing. Andrea Arbelaez Mendoza
+* Dra. Natalia Quintero Hoyos
+* Ing. Johanny Vargas Gonzale
+* Ing. Sebastián Martínez Valencia
 
 # Funcionalidades
 
